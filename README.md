@@ -29,7 +29,32 @@
 </div>
 
 <br>
+<br>
+
 <img src="https://github.com/Amanda-ribeiiro/challenge-one-t6-portfolio/blob/main/assets/img/gif-portifolio.gif">
+
+
+
+## Funcionalidades
+
+- Portfólio completo com seções de menu para fácil navegação: Sobre, Skills, Hobbies, Projetos e Contato.
+- Apresentação das Skills;
+- Destaque para os projetos anteriores;
+- Opções de entrar em contato;
+
+
+
+## Stack utilizada
+
+Frontend:
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+IDE:
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
