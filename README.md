@@ -1,6 +1,6 @@
 <div align=center>
-    <a href=""><img src="https://img.shields.io/badge/Idioma-PT-pink"></a>
-    <a href=""><img src="https://img.shields.io/badge/Language-EN-purple"></a>
+    <a href="https://github.com/Amanda-ribeiiro/challenge-one-t6-portfolio/blob/main/README.md"><img src="https://img.shields.io/badge/Idioma-PT-pink"></a>
+    <a href="https://github.com/Amanda-ribeiiro/challenge-one-t6-portfolio/blob/main/README.en.md"><img src="https://img.shields.io/badge/Language-EN-purple"></a>
 </div>
 
 <br>
