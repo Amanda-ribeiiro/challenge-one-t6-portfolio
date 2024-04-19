@@ -741,3 +741,6 @@ section.footer{
 /*Footer*/
 
 }
+
+@media only screen and (2000px<=width<=2400px) {
+}
