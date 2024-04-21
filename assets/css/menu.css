@@ -125,19 +125,19 @@ section.menu.rolagem a{
 }
 
 /*Mobile*/
-@media (260px<=width<=600px) {
+@media only screen and (max-width:600px) {
+    /*Header*/
+    header {
+        padding: 0;
+        margin: 0;
+        gap: 5px;
+    }
 
     /*Menu*/
     section.menu{
         justify-content: space-between;
         padding: 2%;
 
-    }
-
-    header {
-        padding: 0;
-        margin: 0;
-        gap: 5px;
     }
 
     .menu__list {
@@ -148,5 +148,50 @@ section.menu.rolagem a{
         font-size: 15px;
     }
 
+    .menu__list__button {
+        padding: 5px 10px;
     }
+
+}
+
+@media only screen and (601px<=width<=1024px) {
+
+    /*Header*/
+    header {
+        padding: 0 0 0 6%;
+        margin: 0;
+        gap: 4px;
+        justify-content: center;
+    }
+
+    header img {
+        max-width: 10%;
+    }
+    /*Menu*/
+    section.menu {
+        width: 100%;
+        justify-content: space-between;
+        padding: 0;
+    }
+
+    .menu__title {
+        font-size: 12px;
+    }
+
+    /*Menu*/
+    .menu__list {
+        gap: 10px;
+        padding: 0 6% 0 0;
+    }
+
+    .menu__list__item {
+        font-size: 12px;
+    }
+
+    .menu__list__button {
+        font-size: 12px;
+        padding: 5px 14px 6px 12px;
+    }
+
+}
 
