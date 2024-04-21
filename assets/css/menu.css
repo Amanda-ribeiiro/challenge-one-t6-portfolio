@@ -124,3 +124,29 @@ section.menu.rolagem a{
     opacity: 1;
 }
 
+/*Mobile*/
+@media (260px<=width<=600px) {
+
+    /*Menu*/
+    section.menu{
+        justify-content: space-between;
+        padding: 2%;
+
+    }
+
+    header {
+        padding: 0;
+        margin: 0;
+        gap: 5px;
+    }
+
+    .menu__list {
+        display: none;
+    }
+
+    .menu__title {
+        font-size: 15px;
+    }
+
+    }
+
